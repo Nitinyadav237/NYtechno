@@ -1,2 +1,2 @@
-# nytechno
-this a react website
+# NYTechno
+This a React Website
