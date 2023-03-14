@@ -77,8 +77,8 @@ const Wrapper = styled.section`
 
   @media (max-width: ${({ theme }) => theme.media.mobile}) {
     .top-btn {
-      right: 0;
-      left: 40%;
+      right: 32px;
+      ${"" /* left: 40%; */}
     }
   }
 `;
